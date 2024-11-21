@@ -1,0 +1,18 @@
+{
+  "name": "21.short-url1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "get-short-id": "^3.0.10",
+    "mongoose": "^8.8.1",
+    "nodemon": "^3.1.7",
+    "short-id-gen": "^1.1.2"
+  }
+}
